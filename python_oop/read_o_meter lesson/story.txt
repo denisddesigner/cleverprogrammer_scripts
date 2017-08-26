@@ -1,0 +1,20 @@
+Save & Load Data
+
+pythonbeginners.com
+- Reading and Writing Files in Python
+
+Words per minute (average 200 wpm)
+
+1000 words / 200 wpm = 5 minutes
+
+Objectives
+
+1. Count
+2. Reading from a file (load data)
+
+
+Resources
+Code Wars
+Code Fights
+
+Article: How to know you're ready for Freelancing. 
